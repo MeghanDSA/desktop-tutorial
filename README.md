@@ -1,8 +1,13 @@
-# Welcome to GitHub Desktop!
+## About me
+I am a DSA (data science and analytics) student at Clemson University and will be completing
+my MS in December 2022. I already have an MS in English from Clemson, as well.
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+## Interests
+I am particularly interested in:
+- Language processing
+- Language/corpus analytics
+- Using analytics for good, not evil
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
-**Meghan_Mullaney**
+## This is my family and I dressed as characters from Monty Python
+![DragonCon 2022](https://www.semigravity.com/2022/Conventions/Dragoncon-2022/i-gJBfhdW)
 
-Editing to see how edits are added to GitHub Desktop. Cheers!
