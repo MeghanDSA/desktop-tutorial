@@ -9,5 +9,5 @@ I am particularly interested in:
 - Using analytics for good, not evil
 
 ## This is my family and I dressed as characters from Monty Python
-![DragonCon 2022](https://www.semigravity.com/2022/Conventions/Dragoncon-2022/i-gJBfhdW)
+![DragonCon 2022](https://photos.smugmug.com/2022/Conventions/Dragoncon-2022/i-gJBfhdW/0/04fc1bdc/XL/IMG_5356-XL.jpg)
 
